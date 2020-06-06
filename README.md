@@ -101,7 +101,7 @@ Pop-up Window Code:
 The user is able to click either the - button to zoom out or the + to zoom in.
 
 Zoom Control Code:
-<img src="img/zoomcode.JPG" width="800" height="300"/>
+<img src="img/zoomcode.JPG" width="600" height="200"/>
 
 3. Layer control
 The user is able to choose from three different base layers Black, Satellite, and Streets.
