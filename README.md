@@ -87,4 +87,4 @@ My opinion of the user interface design (UI) of the webpage is that is visually 
 
 <img src="img/legend.JPG" width="100" height="100" class="center"/>
 <br></br>
-<img src="img/codelegend.JPG" class="center"/>
+<img src="img/codelegend.JPG" width="200" height="100" class="center"/>
