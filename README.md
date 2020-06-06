@@ -126,7 +126,19 @@ Legend code:
 
 <h3> Analysis of Strengths and Weaknesses of Project</h3>
 
+Strengths of the project is it was created by two reputable organizations University of Washington and The Nature Conservancy. Making the information created for this website reliable for users to analyze. The project does succeed in creating a map that shows the future migration paths of vertebrates in North and South America. Users are able to focus on specific areas of interest because there is enough data that the map is very detailed when zoomed in. Using an animated thematic layer gives the user a real sense of what corridors will be used by animals in their migrations. The data represents the animal corridors well, which translates well when trying to use this web map to influence people about the need to transition building plans to accommodate for these migrations. The project really puts into perspective the relevance of climate change on vertebrates and how much animals are affected by changing of average temperatures around the globe.
+
+Weaknesses of the project are the benefits of it are not fully discussed. Were the costs of the project worth the benefits that come of its creation? In the project, there is a short description of what we can do with the information. What I would like to see is other sources for how we could enact this type of change in our communities. For the average user this map is just something aesthetically pleasing to look at, but there is very little I can do to help improve my community for the impending migration of these species. How has this project exposed itself to the people that need to see this analysis of data to create change in our infrastructure, like the conservationists and land managers mentioned in the project. Another weakness of the project is more of a visual problem when analyzing the web page it is sometimes hard to visualize the amphibians migrations through the mammals and birds because they move less distance and the yellow does not pop as well of the basemap. An addition of being able to select one or all of the different vertebrates visible on the map would make it easier to analyze the amphibians migration paths.
 
 
 
 <h3> Reflection </h3>
+
+
+
+
+<h3> References </h3>
+
+[Article 1: Migration in Motion](https://blog.nature.org/science/2016/08/19/migration-in-motion-visualizing-species-movements-due-to-climate-change/)
+
+[Article 2: Species on the Move](https://blog.nature.org/science/2016/06/29/species-on-the-move-mapping-barriers-for-wildlife-in-a-warming-world/?utm_source=cgs&utm_medium=alsoin&utm_campaign=migrations)
