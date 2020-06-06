@@ -101,13 +101,13 @@ Pop-up Window Code:
 The user is able to click either the - button to zoom out or the + to zoom in.
 
 Zoom Control Code:
-<img src="img/zoomcode.JPG" width="800"height="300"/>
+<img src="img/zoomcode.JPG" width="800" height="300"/>
 
 3. Layer control
 The user is able to choose from three different base layers Black, Satellite, and Streets.
 
 Layer Control Code:
-<img src="img/basecode.JPG" width="700"height="500"/>
+<img src="img/basecode.JPG" width="700" height="500"/>
 
 
 <h5>Web Map Elements</h5>
