@@ -75,16 +75,53 @@ My opinion of the user interface design (UI) of the webpage is that is visually 
 
 <h5>Basemap</h5>
 
+The basemap is created from mapbox tiles that represent the entire planet. The mapbox tiles are characterized by OpenStreetMap designs either Black, Satellite or Streets depending upon which the user picks. In the code the only the mapbox tiles that are present in the extent of the screen are able to analyzing in the inspector code.
+
+Example of the code for the mapbox basemaps tiles:
+<img src="img/basetile.JPG"/>
 
 
 <h5>Thematic Layer</h5>
 
+The thematic layer is a raster layer that is animated and repeated on a loop. The layer shows the predicted migration trails of the different types of vertiebrates throughout North and South America. When you move the map the layer disappears and then reappears replaying on the same loop for what location the user is on. The further the user zooms out the fewer migration paths visible and opposite for when the user zooms in the number of paths increases. The transform function in the code is used so the thematic layer is able to be scaled and moved to when the user does an action on the web map.
+
+Thematic Layer Code:
+<img src="img/thematiccode.JPG" />
+
+
 <h5>Interactive Features</h5>
+
+1. Pop-up Window Bottom Left Corner
+The pop-up window has a slider, so the user is able to move through the different slides by clicking the "Next" or "Prev" buttons or clicking a specific dot which is correlated to a slide. The purpose of this feature is to give the user more context for the web map, cite the sources, and provide more information on the topic.
+
+Pop-up Window Code:
+<img src="img/popupcode.JPG"/>
+
+2. Zoom Control
+The user is able to click either the - button to zoom in or the + to zoom out.
+
+Zoom Control Code:
+<img src="img/zoomcode.JPG"/>
+
+3. Layer control
+The user is able to choose from three different base layers Black, Satellite, and Streets.
+
+Layer Control Code:
+<img src="img/basecode.JPG"/>
+
 
 <h5>Web Map Elements</h5>
 
 1. legend which is a list of the three different vertebrates shown in the map
 
-<img src="img/legend.JPG" width="100" height="100" class="center"/>
+legend
+
+<img src="img/legend.JPG" width="100" height="100"/>
 <br></br>
+Legend code
+
 <img src="img/codelegend.JPG" width="500" height="300" class="center"/>
+
+<h3> Analysis of Strengths and Weaknesses of Project</h3>
+
+<h3> Reflection </h3>
