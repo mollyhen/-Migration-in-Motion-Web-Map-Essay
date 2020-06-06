@@ -42,13 +42,13 @@ There are multiple Javascrpit data sets being flowed from the server to the clie
 
 The unslider is the interactive part of the map with the title and a few pages of information on the project. The .css code references data to produce this function on the web map. The font used in the web comes from google. The layout of the map was created with the help of mapbox.
 
-<h5> Major Libraries in Use </h5>
+<h4> Major Libraries in Use </h4>
 
 1. JavaScrpit Library: which is used to create the interactions between the webpage and the user. The multiple elements on the webpage users are able to use.
 
 2. CSS Library: which is primarily used for design of the web page, so the layout of the webpage is easy and comfortable to interact with for the user.
 
-<h5> Does this Project Support Responsive Design?</h5>
+<h4> Does this Project Support Responsive Design?</h4>
 
 The project does support responsive design. As a user you are able to access the web page and have the same interactions with it on your mobile phone as your computer. There are a few things that could be improved so the web page is able to respond better to changing platforms. When opening this web page on your mobile device the interactive pop-up in the bottom left with the addition information about the project does not resize on the mobile. It takes up a large amount of the screen and when holding the mobile device sideways you are not able to read everything available in the pop-up. Additionally, if you move the map too fast on the mobile the thematic layer takes a second for it to reconfigure itself over the new coordinates.
 
@@ -65,7 +65,7 @@ The project does support responsive design. As a user you are able to access the
 
 3. Mapbox Tiles (raster) there are multiple mapbox tiles that make up the base of the map.
 
-<h5> Critique of UI/UX </h5>
+<h4> Critique of UI/UX </h4>
 
 My opinion of the user experience (UX) with the web page is overall user friendly. Simplistic design easy to understand functions available to interact with. The pop-up is a simple design with a using a slider to move between information slides. There are three different basemaps avaliable to use depending on user preference. User is able to transition between 7 zoom levels. In my opinion there are only about 3 or 4 zoom levels that are useful for analyzing the data on the map. When you zoom to close it is hard to understand the importance of the animation. Also, when you zoom too far out less data is shown on the image and does not give the user a good idea of the extent of the data to analyze it correctly. Users are able to move through the web page with relative ease by clicking and dragging the map to the location the user wishes to analyze. This web page in my opinion is easier to navigate with the use of a mouse because you can move the map easier. Things that could be done to improve the user experience is let it be able to zoom in and out using a mouse scroller and be able to minimize the pop-up in the bottom left in order to only focus on the map.
 
@@ -73,7 +73,7 @@ My opinion of the user interface design (UI) of the webpage is that is visually 
 
 <h3> Descriptions of the Layers and Features of Web Map </h3>
 
-<h5>Basemap</h5>
+<h4>Basemap</h4>
 
 The basemap is created from mapbox tiles that represent the entire planet. The mapbox tiles are characterized by OpenStreetMap designs either Black, Satellite or Streets depending upon which the user picks. In the code the only the mapbox tiles that are present in the extent of the screen are able to analyzing in the inspector code.
 
@@ -81,7 +81,7 @@ Example of the code for the mapbox basemaps tiles:
 <img src="img/basetile.JPG"/>
 
 
-<h5>Thematic Layer</h5>
+<h4>Thematic Layer</h4>
 
 The thematic layer is a raster layer that is animated and repeated on a loop. The layer shows the predicted migration trails of the different types of vertebrates throughout North and South America. When you move the map, the layer disappears and then reappears replaying on the same loop for what location the user is on. The further the user zooms out the fewer migration paths visible and opposite for when the user zooms in the number of paths increases. The transform function in the code is used so the thematic layer is able to be scaled and moved to when the user does an action on the web map.
 
@@ -89,7 +89,7 @@ Thematic Layer Code:
 <img src="img/thematiccode.JPG" />
 
 
-<h5>Interactive Features</h5>
+<h4>Interactive Features</h4>
 
 1. Pop-up Window Bottom Left Corner
 The pop-up window has a slider, so the user is able to move through the different slides by clicking the "Next" or "Prev" buttons or clicking a specific dot which is correlated to a slide. The purpose of this feature is to give the user more context for the web map, cite the sources, and provide more information on the topic.
@@ -112,7 +112,7 @@ Layer Control Code:
 <img src="img/basecode.JPG" width="700" height="500"/>
 
 
-<h5>Web Map Elements</h5>
+<h4>Web Map Elements</h4>
 
 1. legend which is a list of the three different vertebrates shown in the map
 
@@ -134,7 +134,7 @@ Weaknesses of the project are the benefits of it are not fully discussed. Were t
 
 <h3> Reflection </h3>
 
-The problem the project is trying to support change for is a deep seeded capitalist mindset of building and growing and creating things in the most cost-effective ways without regard for environmental impacts. This project is trying to gather evidence that this mass migration is going to happen/is currently beginning and we are going to lose a lot of the animal's humans objectively like, but what really important is these animals are irreplaceable in stable ecosystems. The project does not explicitly say this but my interpretation is that we cannot keep progressing with urban sprawl outside our cities it is creating more fragmentation of the environment cutting off the corridors for animals to successfully travel through. Also, the project is going after the idea that the freeways and highways we create do not just need to cut a straight path. We can engineer overpasses and underpasses for animals that could be safe for them to migrate through and minimizing the death rate of animals from automobiles. There is a need to give a voice at the table for animals, so we are able to build future human features that do minimal damage to the survival of the ecosystems that are only becoming more fragile as climate change increases. Climate change is real and should be present on everyone's mind it is happening now. Animals are migrating to stay alive and if humans want to support their efforts in trying to find a new habitat, we need to increase our awareness and knowledge on how to help. 
+The problem the project is trying to support change for is a deep seeded capitalist mindset of building and growing and creating things in the most cost-effective ways without regard for environmental impacts. This project is trying to gather evidence that this mass migration is going to happen/is currently beginning and we are going to lose a lot of the animal's humans objectively like, but what really important is these animals are irreplaceable in stable ecosystems. The project does not explicitly say this but my interpretation is that we cannot keep progressing with urban sprawl outside our cities it is creating more fragmentation of the environment cutting off the corridors for animals to successfully travel through. Also, the project is going after the idea that the freeways and highways we create do not just need to cut a straight path. We can engineer overpasses and underpasses for animals that could be safe for them to migrate through and minimizing the death rate of animals from automobiles. There is a need to give a voice at the table for animals, so we are able to build future human features that do minimal damage to the survival of the ecosystems that are only becoming more fragile as climate change increases. Climate change is real and should be present on everyone's mind it is happening now. Animals are migrating to stay alive and if humans want to support their efforts in trying to find a new habitat, we need to increase our awareness and knowledge on how to help.
 
 <h3> References </h3>
 
