@@ -83,7 +83,7 @@ Example of the code for the mapbox basemaps tiles:
 
 <h5>Thematic Layer</h5>
 
-The thematic layer is a raster layer that is animated and repeated on a loop. The layer shows the predicted migration trails of the different types of vertiebrates throughout North and South America. When you move the map the layer disappears and then reappears replaying on the same loop for what location the user is on. The further the user zooms out the fewer migration paths visible and opposite for when the user zooms in the number of paths increases. The transform function in the code is used so the thematic layer is able to be scaled and moved to when the user does an action on the web map.
+The thematic layer is a raster layer that is animated and repeated on a loop. The layer shows the predicted migration trails of the different types of vertebrates throughout North and South America. When you move the map, the layer disappears and then reappears replaying on the same loop for what location the user is on. The further the user zooms out the fewer migration paths visible and opposite for when the user zooms in the number of paths increases. The transform function in the code is used so the thematic layer is able to be scaled and moved to when the user does an action on the web map.
 
 Thematic Layer Code:
 <img src="img/thematiccode.JPG" />
@@ -98,16 +98,16 @@ Pop-up Window Code:
 <img src="img/popupcode.JPG"/>
 
 2. Zoom Control
-The user is able to click either the - button to zoom in or the + to zoom out.
+The user is able to click either the - button to zoom out or the + to zoom in.
 
 Zoom Control Code:
-<img src="img/zoomcode.JPG"/>
+<img src="img/zoomcode.JPG" width="800"height="300"/>
 
 3. Layer control
 The user is able to choose from three different base layers Black, Satellite, and Streets.
 
 Layer Control Code:
-<img src="img/basecode.JPG"/>
+<img src="img/basecode.JPG" width="700"height="500"/>
 
 
 <h5>Web Map Elements</h5>
@@ -123,5 +123,8 @@ Legend code
 <img src="img/codelegend.JPG" width="500" height="300" class="center"/>
 
 <h3> Analysis of Strengths and Weaknesses of Project</h3>
+
+
+
 
 <h3> Reflection </h3>
