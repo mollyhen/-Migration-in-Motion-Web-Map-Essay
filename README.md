@@ -75,10 +75,16 @@ My opinion of the user interface design (UI) of the webpage is that is visually 
 
 <h5>Basemap</h5>
 
+
+
 <h5>Thematic Layer</h5>
 
 <h5>Interactive Features</h5>
 
 <h5>Web Map Elements</h5>
 
-1. legend which is a list of the three different vertebrates shown in the map 
+1. legend which is a list of the three different vertebrates shown in the map
+
+<img src="img/legend.JPG" width="100" height="100" class="center"/>
+<br></br>
+<img src="img/codelegend.JPG" class="center"/>
